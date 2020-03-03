@@ -17,3 +17,8 @@ In files of this type the following information are stored:
 In files of this type information about used transportation modes are stored.
 
 ## Analyses
+- number of rows registered at a sprecific location within a certain time range which are related to any type of driving
+- min, max average altitude at which user has walked
+- top N rows with highest altitude at which user has ridden a bike within a certain time range
+- time spent outside for each day
+- different locations which user has visited within a certain time range
