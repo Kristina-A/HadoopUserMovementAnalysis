@@ -1,5 +1,6 @@
 # Hadoop application for analyzing user movements
-Analyses are based on two files:
+Analyses are based on two type of files:
+
 ![data](https://user-images.githubusercontent.com/37186937/75810482-f4abef00-5d8a-11ea-93c0-b52569d31230.PNG)
 
 In this file are stored following information:
